@@ -850,3 +850,50 @@ form textarea:focus {
     padding: 35px 0 35px;
     border-top: 1px solid #888;
 }
+/* footer bottom */
+.footer-bottom {
+    background: #302c42;
+    text-align: center;
+    color: #eee;
+    padding: 35px 0 35px;
+    border-top: 1px solid #888;
+}
+
+/* footer */
+footer {
+    background: #302c42;
+    padding: 90px 0 80px;
+}
+
+footer .brand {
+    font-size: 30px;
+    color: #fff;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+footer .brand img {
+    width: 65px;
+}
+
+footer h5 {
+    color: #fff !important;
+    margin-top: 8px;
+    margin-bottom: 15px;
+}
+
+footer ul li {
+    margin-bottom: 8px;
+}
+
+footer ul li a {
+    color: #ccc;
+}
+
+footer ul li a i {
+    margin-right: 10px;
+}
+
+footer .social li a i {
+    width: 20px;
+}
